@@ -9,7 +9,7 @@ export const Bio = {
     "I am a passionate frontend web developer with a special focus on JavaScript. My goal is to create amazing and meaningful web experiences for users, using the latest technologies and best practices in web development..",
   github: "https://github.com/Aran-tm",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1pT0aycp8g_h2asb9oxrOizActSERqEGY/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/aran-dev/",
   twitter: "https://twitter.com/aran_tm",
   insta: "https://www.instagram.com/armando_rtm/",
