@@ -3,12 +3,13 @@ This project is based on the original idea of the web portfolios of Javascript M
 This project showcases my skills, projects, and experiences as a web developer.
 
 ## Example of the main section of my personal portfolio
+![Screenshot (303)](https://github.com/Aran-tm/personal_porfolio/assets/113542332/e036a8be-a125-45b8-aea0-3bf570a6e9ff)
+
 
 ## This section below was created by Rishav Chanda:
-### Porfolio Web of Rishav Chanda: [Live Website](https://rishavchanda.netlify.app)
+Porfolio Web of Rishav Chanda: [Live Website](https://rishavchanda.netlify.app)
 
 ## Some Images of Rishav Chanda Personal Porfolio
-
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
