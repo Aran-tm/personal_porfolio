@@ -2,7 +2,7 @@
 This project is based on the original idea of the web portfolios of Javascript Mastery and Rishav Chanda.
 This project showcases my skills, projects, and experiences as a web developer.
 
-## Example of the main section of my personal portfolio
+## Main Section
 ![Screenshot (303)](https://github.com/Aran-tm/personal_porfolio/assets/113542332/e036a8be-a125-45b8-aea0-3bf570a6e9ff)
 
 
