@@ -103,7 +103,8 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Aran dev. All rights reserved. Based on the original idea of the portfolio created by Javascript Mastery.
+                  &copy; 2024 Aran dev. All rights reserved. <br />
+                  Based on the original ideas of the web portfolios of Javascript Mastery and Rishav Chanda.
         </Copyright>
 
       </FooterWrapper>
