@@ -111,6 +111,14 @@ const SkillItem = styled.div`
     font-size: 14px;
     padding: 6px 12px;
   }
+
+  // Adding over effects
+  &:hover {
+    transform: scale(1.03);
+    cursor: pointer;
+    transitio: ease .3s;
+    box-shadow: 1px 1px 0px 1px rgb(255, 255, 255, 20%)
+ }
 `
 
 const SkillImage = styled.img`
