@@ -180,7 +180,7 @@ export const education = [
     id: 0,
     img: "https://th.bing.com/th/id/OIP.lPVqEtiTFTdaK3cSbSxTXwAAAA?w=200&h=200&rs=1&pid=ImgDetMain",
     school: "University of the Informatics Sciences",
-    date: "Sept 2018 - Nov 2023",
+    date: "Sept 2019 - Nov 2023",
     grade: "4.37 out of 5",
     desc: "Graduated from the University of Computer Sciences in November 2023 in Havana, Cuba. During my time at the university, I studied subjects related to computer engineering such as Fundamentals and Logic of Programming, Object-Oriented Programming, Data Structure, Computer Architecture, Relational Databases, Software Engineering, Artificial Intelligence, Web Development, among others. My time at the university laid the foundation for me to venture into the world of programming logic, data structure, and modern web development, thus providing me with excellent preparation for future projects and responsibilities.",
     degree: "Computer Science Engineer",
