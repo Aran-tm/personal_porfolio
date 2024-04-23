@@ -5,6 +5,7 @@ import { FaBars } from 'react-icons/fa';
 import { Bio } from '../../data/constants';
 import { Close, CloseRounded } from '@mui/icons-material';
 import { useTheme } from 'styled-components';
+import Logo  from '../../images/Logo.jpg'
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = React.useState(false);
@@ -13,8 +14,9 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
         <NavLogo to='/'>
-          <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-            <DiCssdeck size="3rem" /> <Span>Aran Dev Website</Span>
+          <a href='#about' style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer', textDecoration: 'none' }}>
+             <img src={Logo} alt="Logo" style={{ width: '50px', height: '50px', marginRight: '10px'}} /> {/* Ajusta el tamaño según sea necesario */}
+             <Span>Aran Dev Website</Span>
           </a>
         </NavLogo>
         <MobileIcon>
