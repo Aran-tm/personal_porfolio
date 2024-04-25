@@ -103,11 +103,6 @@ export const skills = [
           "https://www.svgrepo.com/show/327408/logo-vercel.svg",
       },
       {
-        name: "VS Code",
-        image:
-          "https://www.svgrepo.com/show/354522/visual-studio-code.svg",
-      },
-      {
         name: "Postman",
         image:
           "https://www.svgrepo.com/show/354202/postman-icon.svg",
@@ -116,6 +111,11 @@ export const skills = [
         name: "Wordpress",
         image:
           "https://www.psdmockups.com/wp-content/uploads/2016/07/wordpress.jpg",
+      },
+      {
+        name: "Elementor",
+        image:
+          "https://th.bing.com/th/id/R.d6736005b1a33c82c6d6f597bdb8cbd6?rik=MflokVxpop5ECg&pid=ImgRaw&r=0",
       },
     ],
   },
