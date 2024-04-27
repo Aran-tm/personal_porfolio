@@ -194,7 +194,7 @@ export const projects = [
     description:
       "Website built with Angular 17 and Ionic 7. It aims to simulate a literary platform where users will be able to write and read books. Currently under development.",
     image:
-      "https://private-user-images.githubusercontent.com/113542332/316374690-460c1045-5cc7-4a99-88c5-1c1b2c62f6fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQxODAzNTEsIm5iZiI6MTcxNDE4MDA1MSwicGF0aCI6Ii8xMTM1NDIzMzIvMzE2Mzc0NjkwLTQ2MGMxMDQ1LTVjYzctNGE5OS04OGM1LTFjMWIyYzYyZjZmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QwMTA3MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jY2FiNzFhZmMzNzRiN2M5N2RkYmM1YzNkMzE5NTBiOGU0NDg5NjNkOTA0MDE2YTMzOTliZTMwYWQ5OTliY2E4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.N6e3TXgXaUmZIL9ODV1Zack1w4o96GmsUqswfoa4GF4",
+      "https://private-user-images.githubusercontent.com/113542332/316374690-460c1045-5cc7-4a99-88c5-1c1b2c62f6fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQxODY4NDIsIm5iZiI6MTcxNDE4NjU0MiwicGF0aCI6Ii8xMTM1NDIzMzIvMzE2Mzc0NjkwLTQ2MGMxMDQ1LTVjYzctNGE5OS04OGM1LTFjMWIyYzYyZjZmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QwMjU1NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYWY2ZjRjMmYzNzdmNGJlODYzYWVlZjM3ODFmNmRkZTI0YWFjZmVmNWQ0NjA5OWQ2YmQwMjU0MDczYzQ3NzFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.2ZPxVIS04YlQHR6DYq1lQweJ9ckZZy3bpNTdLFlCHg0",
     tags: [
         "HTML",
         "CSS",
@@ -214,7 +214,7 @@ export const projects = [
     description:
       "Page built using Tailwind CSS. It shows a nice visual interface which shows different interesting sections simulating a website for the Mario Bros. character.",
     image:
-      "https://private-user-images.githubusercontent.com/113542332/309063074-a55cd144-dfa1-450a-afb0-3c8944b9b1d0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQxNzgzMzEsIm5iZiI6MTcxNDE3ODAzMSwicGF0aCI6Ii8xMTM1NDIzMzIvMzA5MDYzMDc0LWE1NWNkMTQ0LWRmYTEtNDUwYS1hZmIwLTNjODk0NGI5YjFkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QwMDMzNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NDI0NDlhMjg1OTQ5MmVkYmRiODU0Nzg4N2NiZDg4NTZhZDc3ZDRjMWQyZWQ5OWU3MDQ5YzAxZjhkMDdlOWJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Wtm0Eg1w2v1fN_WARIsE2f7_FEO-J8mNW6cP6OMbJoU",
+      "https://private-user-images.githubusercontent.com/113542332/309063074-a55cd144-dfa1-450a-afb0-3c8944b9b1d0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQxODY4NzYsIm5iZiI6MTcxNDE4NjU3NiwicGF0aCI6Ii8xMTM1NDIzMzIvMzA5MDYzMDc0LWE1NWNkMTQ0LWRmYTEtNDUwYS1hZmIwLTNjODk0NGI5YjFkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QwMjU2MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YWEwOGNmNmYzNjI0MmE4YWEyMjhlOThmMTE5MTVlNmJlM2RmNjRlMDYyNzNhZmUxMWQ4MTUzOTgzOTJlNjQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.oBbT-hxmHdOhz6xg5aQwVGHJT-ikH35Ivd7wnMAsseM",
     tags: [
         'HTML',
         'CSS',
@@ -232,7 +232,7 @@ export const projects = [
     description:
       "Website simulating a clone of the Disney Pro app. Built with modern tailwind, react and vite technologies.",
     image:
-      "https://private-user-images.githubusercontent.com/113542332/321716872-f1b085d0-9d51-4344-b6c5-e2ccd52add98.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQxNzkyMTEsIm5iZiI6MTcxNDE3ODkxMSwicGF0aCI6Ii8xMTM1NDIzMzIvMzIxNzE2ODcyLWYxYjA4NWQwLTlkNTEtNDM0NC1iNmM1LWUyY2NkNTJhZGQ5OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QwMDQ4MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NGY5NTdlMThkMTZhZWE1ZjBmZGMzZmY1ZDEzYTMxMWExMGUwNWYyNWEzMDUwZjg1ZGEzODljZTNkNWY4NWY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.EpKACtdsXtpo7IGSicZpFp93pCLsn8nt6z2iF1kmCCs",
+      "https://private-user-images.githubusercontent.com/113542332/321716872-f1b085d0-9d51-4344-b6c5-e2ccd52add98.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQxODY5MDAsIm5iZiI6MTcxNDE4NjYwMCwicGF0aCI6Ii8xMTM1NDIzMzIvMzIxNzE2ODcyLWYxYjA4NWQwLTlkNTEtNDM0NC1iNmM1LWUyY2NkNTJhZGQ5OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QwMjU2NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDU3ODhkZDI4ZGUyYzhiM2E0YWRkYmUyNDI0NWQwOTRkMjkzYjNkNTkwZTU2OWFkNDQwNzkxMDRiNDQ3YWFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.pd95guVI93dVNEoWeXLaaxDf81NXDgRQy0CZEkUO8Nw",
     tags: [
           "HTML",
           "CSS",
@@ -243,5 +243,21 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Aran-tm/disney-clone",
     webapp: "https://disney-pro-clone.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "Intranet of the National Center for Agricultural Health",
+    date: "Jan 2024 - Present",
+    description:
+      "Intranet site of the National Center for Agricultural Health of Cuba. Built to facilitate the communication of workers within the institution and also allow accessibility to the center's outstanding information.",
+    image:
+      "https://th.bing.com/th/id/R.e031be1a1c59545000e15a9b4bae54b6?rik=1s8pd6rirPI%2f1g&pid=ImgRaw&r=0",
+    tags: [
+          "CMS",
+          "WordPress",
+          "Elementor"],
+    category: "wordpress",
+    github: "",
+    webapp: "",
   },
 ];

@@ -30,15 +30,15 @@ const Projects = ({openModal,setOpenModal}) => {
           }
           <Divider />
           {toggle === 'cross-platform' ?
-            <ToggleButton active value="cross-platform" onClick={() => setToggle('cross-platform')}>Cross Platform Apps</ToggleButton>
+            <ToggleButton active value="cross-platform" onClick={() => setToggle('cross-platform')}>CROSS PLATFORM APP'S</ToggleButton>
             :
-            <ToggleButton value="cross-platform" onClick={() => setToggle('cross-platform')}>Cross Platform Apps</ToggleButton>
+            <ToggleButton value="cross-platform" onClick={() => setToggle('cross-platform')}>CROSS PLATFORM APP'S</ToggleButton>
           }
           <Divider />
           {toggle === 'wordpress' ?
-            <ToggleButton active value="wordpress" onClick={() => setToggle('wordpress')}>WordPress</ToggleButton>
+            <ToggleButton active value="wordpress" onClick={() => setToggle('wordpress')}>WORDPRESS</ToggleButton>
             :
-            <ToggleButton value="wordpress" onClick={() => setToggle('wordpress')}>WordPress</ToggleButton>
+            <ToggleButton value="wordpress" onClick={() => setToggle('wordpress')}>WORDPRESS</ToggleButton>
           }          
         </ToggleButtonGroup>
         <CardContainer>
