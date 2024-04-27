@@ -189,6 +189,26 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Cat Books",
+    date: "Feb 2024 - Present",
+    description:
+      "Website built with Angular 17 and Ionic 7. It aims to simulate a literary platform where users will be able to write and read books. Currently under development.",
+    image:
+      "https://private-user-images.githubusercontent.com/113542332/316374690-460c1045-5cc7-4a99-88c5-1c1b2c62f6fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQxODAzNTEsIm5iZiI6MTcxNDE4MDA1MSwicGF0aCI6Ii8xMTM1NDIzMzIvMzE2Mzc0NjkwLTQ2MGMxMDQ1LTVjYzctNGE5OS04OGM1LTFjMWIyYzYyZjZmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QwMTA3MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jY2FiNzFhZmMzNzRiN2M5N2RkYmM1YzNkMzE5NTBiOGU0NDg5NjNkOTA0MDE2YTMzOTliZTMwYWQ5OTliY2E4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.N6e3TXgXaUmZIL9ODV1Zack1w4o96GmsUqswfoa4GF4",
+    tags: [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "Typescript",
+        "Angular",
+        "Ionic",
+        "Google APIs"
+    ],
+    category: "cross-platform",
+    webapp: "https://cat-books.vercel.app/",
+  },
+  {
+    id: 1,
     title: "Mario Landing Page",
     date: "Jan 2024 - Feb 2024",
     description:
@@ -206,7 +226,7 @@ export const projects = [
     webapp: "https://mario-landing-page.netlify.app/",
   },
   {
-    id: 1,
+    id: 2,
     title: "Disney Clone",
     date: "March 2024 - Apr 2024",
     description:
@@ -223,51 +243,5 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Aran-tm/disney-clone",
     webapp: "https://disney-pro-clone.vercel.app/",
-  },
-  {
-    id: 2,
-    title: "Cat Books",
-    date: "Oct 2022 - Present",
-    description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
-    ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
-  },
-  {
-    id: 3,
-    title: "Quiz App",
-    date: "Dec 2020 - Jan 2021",
-    description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-    image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-    category: "wordpress",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  },
-  {
-    id: 4,
-    title: "Face Recognition",
-    date: "Jan 2021",
-    description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-    image:
-      "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "wordpress",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   },
 ];
