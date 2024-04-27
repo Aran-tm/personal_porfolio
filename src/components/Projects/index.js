@@ -29,11 +29,17 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
           }
           <Divider />
+          {toggle === 'cross-platform' ?
+            <ToggleButton active value="cross-platform" onClick={() => setToggle('cross-platform')}>Cross Platform Apps</ToggleButton>
+            :
+            <ToggleButton value="cross-platform" onClick={() => setToggle('cross-platform')}>Cross Platform Apps</ToggleButton>
+          }
+          <Divider />
           {toggle === 'wordpress' ?
             <ToggleButton active value="wordpress" onClick={() => setToggle('wordpress')}>WordPress</ToggleButton>
             :
             <ToggleButton value="wordpress" onClick={() => setToggle('wordpress')}>WordPress</ToggleButton>
-          }
+          }          
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects

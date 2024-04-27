@@ -132,8 +132,7 @@ export const experiences = [
     skills: [
       "CMS",
       "Wordpress",
-      "Elementor",
-      "PHP",
+      "Elementor"
     ],
   },
   {
@@ -191,50 +190,43 @@ export const projects = [
   {
     id: 0,
     title: "Mario Landing Page",
-    date: "Jun 2023 - Jul 2023",
+    date: "Jan 2024 - Feb 2024",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Page built using Tailwind CSS. It shows a nice visual interface which shows different interesting sections simulating a website for the Mario Bros. character.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://private-user-images.githubusercontent.com/113542332/309063074-a55cd144-dfa1-450a-afb0-3c8944b9b1d0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQxNzgzMzEsIm5iZiI6MTcxNDE3ODAzMSwicGF0aCI6Ii8xMTM1NDIzMzIvMzA5MDYzMDc0LWE1NWNkMTQ0LWRmYTEtNDUwYS1hZmIwLTNjODk0NGI5YjFkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QwMDMzNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NDI0NDlhMjg1OTQ5MmVkYmRiODU0Nzg4N2NiZDg4NTZhZDc3ZDRjMWQyZWQ5OWU3MDQ5YzAxZjhkMDdlOWJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Wtm0Eg1w2v1fN_WARIsE2f7_FEO-J8mNW6cP6OMbJoU",
     tags: [
         'HTML',
         'CSS',
-        
+        'JavaScript',
+        'TailwindCSS'
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: "https://github.com/Aran-tm/mario_landing_page",
+    webapp: "https://mario-landing-page.netlify.app/",
   },
   {
     id: 1,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
+    title: "Disney Clone",
+    date: "March 2024 - Apr 2024",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "Website simulating a clone of the Disney Pro app. Built with modern tailwind, react and vite technologies.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+      "https://private-user-images.githubusercontent.com/113542332/321716872-f1b085d0-9d51-4344-b6c5-e2ccd52add98.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQxNzkyMTEsIm5iZiI6MTcxNDE3ODkxMSwicGF0aCI6Ii8xMTM1NDIzMzIvMzIxNzE2ODcyLWYxYjA4NWQwLTlkNTEtNDM0NC1iNmM1LWUyY2NkNTJhZGQ5OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QwMDQ4MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NGY5NTdlMThkMTZhZWE1ZjBmZGMzZmY1ZDEzYTMxMWExMGUwNWYyNWEzMDUwZjg1ZGEzODljZTNkNWY4NWY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.EpKACtdsXtpo7IGSicZpFp93pCLsn8nt6z2iF1kmCCs",
+    tags: [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Tailwind",
+          "React JS",
+          "Vite"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
+    github: "https://github.com/Aran-tm/disney-clone",
+    webapp: "https://disney-pro-clone.vercel.app/",
   },
   {
     id: 2,
-    title: "Vexa",
+    title: "Cat Books",
     date: "Oct 2022 - Present",
     description:
       "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
