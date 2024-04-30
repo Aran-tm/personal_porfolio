@@ -232,7 +232,7 @@ export const projects = [
     description:
       "Website simulating a clone of the Disney Pro app. Built with modern tailwind, react and vite technologies.",
     image:
-      "https://private-user-images.githubusercontent.com/113542332/321716872-f1b085d0-9d51-4344-b6c5-e2ccd52add98.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ1MDQ1NzYsIm5iZiI6MTcxNDUwNDI3NiwicGF0aCI6Ii8xMTM1NDIzMzIvMzIxNzE2ODcyLWYxYjA4NWQwLTlkNTEtNDM0NC1iNmM1LWUyY2NkNTJhZGQ5OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQzMFQxOTExMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNWRmM2UzODVhOWE3Y2NkOWUxMmEwMzk0ZTJlNDlhNDMwZmQ3ZTdkMTdjMTZkMzE0ZDIyMTQ5MGY3ZGRhZTFlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ckxuzuJ1-Zm06Hm8gNSYFBuW6503t2ucjquQPu8EjkI", 
+      "https://github.com/Aran-tm/disney-clone/assets/113542332/f1b085d0-9d51-4344-b6c5-e2ccd52add98", 
     tags: [
           "HTML",
           "CSS",
