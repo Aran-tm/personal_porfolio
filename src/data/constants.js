@@ -194,7 +194,7 @@ export const projects = [
     description:
       "Website built with Angular 17 and Ionic 7. It aims to simulate a literary platform where users will be able to write and read books. Currently under development.",
     image:
-      "https://private-user-images.githubusercontent.com/113542332/316374690-460c1045-5cc7-4a99-88c5-1c1b2c62f6fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ1MDQyNTksIm5iZiI6MTcxNDUwMzk1OSwicGF0aCI6Ii8xMTM1NDIzMzIvMzE2Mzc0NjkwLTQ2MGMxMDQ1LTVjYzctNGE5OS04OGM1LTFjMWIyYzYyZjZmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQzMFQxOTA1NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZWRkMGM2YTk4YTJiZWRmMTM3Nzk1OTNiOWU5MmI1YTgwMDM1MDA0ZTU0ZTFkNWRjYzc0ZThjOTQ4NzI5MGU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Qcb6Zmyrf3A4gFnFwOpOw3vo15kHpfuOgcucr6Q2htM",
+      "https://github.com/Aran-tm/storebook/assets/113542332/460c1045-5cc7-4a99-88c5-1c1b2c62f6fd",
     tags: [
         "HTML",
         "CSS",
@@ -214,7 +214,7 @@ export const projects = [
     description:
       "Page built using Tailwind CSS. It shows a nice visual interface which shows different interesting sections simulating a website for the Mario Bros. character.",
     image:
-      "https://private-user-images.githubusercontent.com/113542332/309063074-a55cd144-dfa1-450a-afb0-3c8944b9b1d0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ1MDQ0NzksIm5iZiI6MTcxNDUwNDE3OSwicGF0aCI6Ii8xMTM1NDIzMzIvMzA5MDYzMDc0LWE1NWNkMTQ0LWRmYTEtNDUwYS1hZmIwLTNjODk0NGI5YjFkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQzMFQxOTA5MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYmY5ZGUwYzMxMjI3ZmEzODY2OWVhNDI2YzMwMmViYmE5ZWQzMDYwZWNmYWJlNjk5YzlmY2QxMmNlNDE1NDE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GcmWrSnTf6Hn4lXEHOrfsGVZyvDAE1KPtIis2wmcBDg",
+      "https://github.com/Aran-tm/mario_landing_page/assets/113542332/a55cd144-dfa1-450a-afb0-3c8944b9b1d0",
     tags: [
         'HTML',
         'CSS',
