@@ -80,7 +80,7 @@ export const skills = [
     ],
   },
   {
-    title: "Others",
+    title: "Others Tech",
     skills: [
       {
         name: "Git",
@@ -194,7 +194,7 @@ export const projects = [
     description:
       "Website built with Angular 17 and Ionic 7. It aims to simulate a literary platform where users will be able to write and read books. Currently under development.",
     image:
-      "https://private-user-images.githubusercontent.com/113542332/316374690-460c1045-5cc7-4a99-88c5-1c1b2c62f6fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQyNTA3MTYsIm5iZiI6MTcxNDI1MDQxNiwicGF0aCI6Ii8xMTM1NDIzMzIvMzE2Mzc0NjkwLTQ2MGMxMDQ1LTVjYzctNGE5OS04OGM1LTFjMWIyYzYyZjZmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QyMDQwMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNTdiYThmZWU3YjMyOGQxYTQzOWQxYzczMWMwOGU1MmNiZjMwMzIyNDlkZTliMWFmNGE0Y2RiNDY2MmIyMWY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.pvDkVyUvkh6S4hKW3HbnBHAMkD4b7C_4f8b0YQ3Xyrc",
+      "https://private-user-images.githubusercontent.com/113542332/316374690-460c1045-5cc7-4a99-88c5-1c1b2c62f6fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ1MDQyNTksIm5iZiI6MTcxNDUwMzk1OSwicGF0aCI6Ii8xMTM1NDIzMzIvMzE2Mzc0NjkwLTQ2MGMxMDQ1LTVjYzctNGE5OS04OGM1LTFjMWIyYzYyZjZmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQzMFQxOTA1NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZWRkMGM2YTk4YTJiZWRmMTM3Nzk1OTNiOWU5MmI1YTgwMDM1MDA0ZTU0ZTFkNWRjYzc0ZThjOTQ4NzI5MGU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Qcb6Zmyrf3A4gFnFwOpOw3vo15kHpfuOgcucr6Q2htM",
     tags: [
         "HTML",
         "CSS",
