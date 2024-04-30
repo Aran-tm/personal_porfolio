@@ -194,7 +194,7 @@ export const projects = [
     description:
       "Website built with Angular 17 and Ionic 7. It aims to simulate a literary platform where users will be able to write and read books. Currently under development.",
     image:
-      "https://github.com/Aran-tm/storebook/assets/113542332/460c1045-5cc7-4a99-88c5-1c1b2c62f6fd",
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/113542332/316374690-460c1045-5cc7-4a99-88c5-1c1b2c62f6fd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240430T194720Z&X-Amz-Expires=300&X-Amz-Signature=ed6cb7cb0462831425b83704b0d50f0706c7adc34ac2698b3414f70b7b0ccef7&X-Amz-SignedHeaders=host&actor_id=113542332&key_id=0&repo_id=770167142",
     tags: [
         "HTML",
         "CSS",
