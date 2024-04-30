@@ -80,7 +80,7 @@ export const skills = [
     ],
   },
   {
-    title: "Others Tech",
+    title: "Others Techs and Tools",
     skills: [
       {
         name: "Git",
@@ -214,7 +214,7 @@ export const projects = [
     description:
       "Page built using Tailwind CSS. It shows a nice visual interface which shows different interesting sections simulating a website for the Mario Bros. character.",
     image:
-      "https://private-user-images.githubusercontent.com/113542332/309063074-a55cd144-dfa1-450a-afb0-3c8944b9b1d0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQyNTA0MjQsIm5iZiI6MTcxNDI1MDEyNCwicGF0aCI6Ii8xMTM1NDIzMzIvMzA5MDYzMDc0LWE1NWNkMTQ0LWRmYTEtNDUwYS1hZmIwLTNjODk0NGI5YjFkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QyMDM1MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NzJmMjc0ZTU5YTYzYWRiYmIwZWZlZTU3MGI0ZGNmYjBiNDM4NDVmM2VjNzlkNzEwMTdjZDFiMDFhZDM1MDk2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.4EggBp15im_e7euw4j-XiYbcIOoP9FRtczIzsd3lbAs",
+      "https://private-user-images.githubusercontent.com/113542332/309063074-a55cd144-dfa1-450a-afb0-3c8944b9b1d0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ1MDQ0NzksIm5iZiI6MTcxNDUwNDE3OSwicGF0aCI6Ii8xMTM1NDIzMzIvMzA5MDYzMDc0LWE1NWNkMTQ0LWRmYTEtNDUwYS1hZmIwLTNjODk0NGI5YjFkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQzMFQxOTA5MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYmY5ZGUwYzMxMjI3ZmEzODY2OWVhNDI2YzMwMmViYmE5ZWQzMDYwZWNmYWJlNjk5YzlmY2QxMmNlNDE1NDE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GcmWrSnTf6Hn4lXEHOrfsGVZyvDAE1KPtIis2wmcBDg",
     tags: [
         'HTML',
         'CSS',
