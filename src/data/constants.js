@@ -139,7 +139,6 @@ export const experiences = [
       "JavaScript",
       "TypeScript",
       "Tailwind CSS",
-      "React",
       "Angular",
       "Ionic",
     ],
