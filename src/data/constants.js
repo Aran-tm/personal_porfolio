@@ -9,7 +9,7 @@ export const Bio = {
     "I am a passionate frontend web developer with a special focus on JavaScript. My goal is to create amazing and meaningful web experiences for users, using the latest technologies and best practices in web development..",
   github: "https://github.com/Aran-tm",
   resume:
-    "https://drive.google.com/file/d/15DLkiD8gRnd03bpRg1pSqTn3Iwkmmc3Y/view?usp=sharing",
+    "https://drive.google.com/file/d/1b2x9Mj4kF5RmyitiGabYROLk-ag8AhVX/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/aran-dev/",
   twitter: "https://twitter.com/aran_tm",
   insta: "https://www.instagram.com/armando_rtm/",
@@ -40,11 +40,6 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/2/2d/TypeScript_ESLint_logo.svg",
       },
       {
-        name: "React Js",
-        image:
-          "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
-      },
-      {
         name: "Angular",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg",
@@ -72,10 +67,6 @@ export const skills = [
       {
         name: "PostgreSql",
         image: "https://www.postgresql.org/media/img/about/press/elephant.png",
-      },
-      {
-        name: "PHP",
-        image: "https://www.svgrepo.com/show/452088/php.svg",
       },
     ],
   },
@@ -194,7 +185,7 @@ export const projects = [
     description:
       "Website built with Angular 17 and Ionic 7. It aims to simulate a literary platform where users will be able to write and read books. Currently under development.",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/113542332/316374690-460c1045-5cc7-4a99-88c5-1c1b2c62f6fd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240430T194720Z&X-Amz-Expires=300&X-Amz-Signature=ed6cb7cb0462831425b83704b0d50f0706c7adc34ac2698b3414f70b7b0ccef7&X-Amz-SignedHeaders=host&actor_id=113542332&key_id=0&repo_id=770167142",
+      "https://private-user-images.githubusercontent.com/113542332/316374690-460c1045-5cc7-4a99-88c5-1c1b2c62f6fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU3OTg5OTcsIm5iZiI6MTcxNTc5ODY5NywicGF0aCI6Ii8xMTM1NDIzMzIvMzE2Mzc0NjkwLTQ2MGMxMDQ1LTVjYzctNGE5OS04OGM1LTFjMWIyYzYyZjZmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNVQxODQ0NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NWZkYjNjZDBjYWI3MjVjNWQwMmRlOWY0ZDY2YTdhOTdhZTcwNjkyNDE5MmNhY2Y1YzE0M2QwMGYzNGZkOGVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bD7b57t5svK_vgij1cxnGQlhe5hSuP3MLVw4AZKl-Ic",
     tags: [
         "HTML",
         "CSS",
